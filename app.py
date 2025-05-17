@@ -4,7 +4,7 @@ import socket
 
 app = Flask(__name__)
 
-# Twilio credentials (replace with actual values)
+# Twilio credentials 
 TWILIO_ACCOUNT_SID = 'xxxxxxxxxxxxxxxxxxxxx'
 TWILIO_AUTH_TOKEN = 'xxxxxxxxxxxxxxxxxxxxx'
 TWILIO_PHONE_NUMBER = 'xxxxxxxxxxx'
